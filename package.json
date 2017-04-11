@@ -1,0 +1,17 @@
+{
+  "name": "node-xlsx-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xlsx"
+  ],
+  "author": "kazunori.kimura.js@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.9.10"
+  }
+}
